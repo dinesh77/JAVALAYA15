@@ -1,0 +1,24 @@
+class String _Pro15{
+public static void m(String s){
+for (int index=0; index<s.length
+(); index++,System. out
+•printin())f
+char c
+= S.charAt (index) ;
+System.out.print(c+"
+for (char ch='A' ich<=c;ch
+");
+++) {
+String res = (ch<c)?"
+:c+"":
+System.out.print(res);
+}
+}
+}
+}
+class String_Pro15_Test{
+public static void main(String
+...abc) {
+String_Pro15.m("JAVALAYA");
+}
+}
